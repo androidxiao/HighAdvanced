@@ -23,6 +23,6 @@ public class SecondActivity extends AppCompatActivity {
 
         a=2;
 
-        Log.d(TAG, "onCreate: 为了测试 打一个 log");
+        Log.d(TAG, "onCreate: 为了测试 打一个 log111111111");
     }
 }
